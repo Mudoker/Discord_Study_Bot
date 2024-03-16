@@ -1,4 +1,4 @@
 # Discord_Study_Bot
-This Discord bot will keep track of user's study time by entering Voice chat room
+StudyBot helps you stay on track with your studies! It keeps tabs on how long you spend in dedicated voice channels, like "Study Room," giving you valuable insights into your study habits.
 
-Notice: Due to limited budget, this application only work on REPLIT since it uses Replit's database and Replit's server. Hence, the bot may be disconnected sometimes because of Rate limited issue.
+To keep things free, StudyBot runs on Replit's platform. This means it might occasionally go offline due to limitations, but don't worry, it'll be back to monitoring your study sessions in no time!
